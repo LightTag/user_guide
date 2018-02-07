@@ -5,19 +5,25 @@ Dataset
 
 In LightTag a dataset is a collection of :ref:`Examples<example>`.
 
-Structure of a Dataset
+Dataset Attributes
 ----------------------
 Datasets have a few parameters for you to define.
 
-1. **Name** each dataset has a name
-2. **UniqueId Field** Is an optional parameter. This will enforce a unique constraint on your :ref:`Examples<example>`.
+* **Name**
+    each dataset has a name
+* **UniqueId Field**
+    Is an optional parameter. This will enforce a unique constraint on your :ref:`Examples<example>`.
     You can use this to ensure that you do not add duplicate data to your datasets during the life of a project.
-2. **Aggregation Field** This paramater specifies which  :ref:`Examples<example>` should be displayed to the annotator
+* **Aggregation Field**
+    This paramater specifies which  :ref:`Examples<example>` should be displayed to the annotator
     together. For example if we are annotating conversations and have a field such as *conversation_id*, specifying that
     field as the **Aggregation Field** will ensure LightTag displays all messages from that conversation together.
-3. **Order Field** When annotating a few examples together, we need to decide in what order to display them. Continuing
+* **Order Field**
+    When annotating a few examples together, we need to decide in what order to display them. Continuing
     the conversation example, specifying *message_time* as the order field would ensure that the messages are displayed
     in chronological order to the annotator.
+
+See the :ref:`onboarding guide<data_prep>` for step by step instructions on how these fields are specified
 
 Why do we need datasets
 -----------------------
@@ -71,7 +77,17 @@ Using LightTags seperation of datasets we can overcome these difficulties easily
 Data sources
 ~~~~~~~~~~~~
 
+Another common use case for the Dataset abstraction is when our data comes in seperate chunks, either seperated by time
+our source. For example we might annotate tweets and then decide to add Reddit comments. Frequently, we'll need to
+periodically add data as it comes in, for example at the end of every month.
 
 
-Specifying which examples to show together
-------------------------------------------
+Appending new data to a dataset is generally a bad idea, as it makes it difficult to compare apples to apples. That is,
+it becomes tricky to ensure that you are comparing metrics on the same dataset, and that changes in your model's performance
+are due to a change in the model and not a chnage in the dataset.
+
+Sepearting your examples into different datasets by source is an easy solution, that allows you to ensure you can execute
+"apples to apples" comparisons while also easily combining annotations from datasets as they become availble.
+
+
+

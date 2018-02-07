@@ -7,10 +7,12 @@ Welcome to The LightTag User Guide !
 ===============================================
 
 
-LightTag makes it easy to annotate text with a large team.
+LightTag makes it easy to annotate text with a large team. It provides everything for you to execute on
+
+   "I want *n* annotaotrs to annotate :ref:`dataset` A with :ref:`tags<tag>` from :ref:`schema` B"
 
 .. toctree::
-
+   :maxdepth: 1
    :caption: Contents:
 
    What is LightTag anyway <what_and_why/index>

@@ -1,3 +1,4 @@
+.. _first_schema:
 Uploading Your First Schema
 ===========================
 
