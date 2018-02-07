@@ -10,7 +10,7 @@ Welcome to The LightTag User Guide !
 LightTag makes it easy to annotate text with a large team.
 
 .. toctree::
-   :maxdepth: 2
+
    :caption: Contents:
 
    What is LightTag anyway <what_and_why/index>
