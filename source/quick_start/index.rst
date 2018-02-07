@@ -8,7 +8,8 @@ LightTag Quick Start
    Preparing your data <data_prep>
    Uploading your first dataset <first_dataset>
    Define your first Schema <first_schema>
-   Creating your first Task <first_task>
+   Defining Your First Task Definition <first_task>
+   Annotating <annotating_basics>
 
 A quick guide to thinking in LightTag
 -------------------------------------
@@ -55,6 +56,4 @@ annotated by at least **3** annotators.
 Once we've defined our two Task Definitions, LightTag will automatically derive the work that needs to be done and allocate
 individual :ref:`task`s to annotators.
 
-Up Next
--------------------------------------
 The next section will describe how LightTag expects to ingest your data and why.

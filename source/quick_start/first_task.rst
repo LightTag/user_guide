@@ -1,4 +1,4 @@
-Uploading Your First Task
+Defining Your First Task Definition
 =========================
 
 At this point you should have defined a :ref:`dataset` and a :ref:`schema`. It's now time to specify that we'd like
