@@ -1,3 +1,5 @@
+
+
 Annotating
 ==========
 
@@ -34,7 +36,7 @@ A Tag can be selected by either double clicking on a tag or pressing the keyboar
 
 The currently selected Tag will be at the top of the list with a darker blue background.
 
-You can deselect a tag by pressing the ESC key
+You can deselect a tag by pressing the :kbd:`ESC` key
 
 Applying a Tag
 --------------

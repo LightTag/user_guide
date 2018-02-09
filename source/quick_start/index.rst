@@ -10,6 +10,7 @@ LightTag Quick Start
    Define your first Schema <first_schema>
    Defining Your First Task Definition <first_task>
    Annotating <annotating_basics>
+   Downloading and Metrics <downloading>
 
 A quick guide to thinking in LightTag
 -------------------------------------
