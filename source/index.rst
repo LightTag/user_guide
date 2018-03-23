@@ -20,6 +20,7 @@ LightTag provides everything you need to execute on that thought and ensure the 
    :caption: Contents:
 
    Quick Start <quick_start/index>
+   Managing Projects <in-depth/index>
    What is LightTag anyway <what_and_why/index>
    Understand <understand/index>
    Tips and tricks <tips/index>
