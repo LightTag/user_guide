@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+    server:
+        image: 052831428797.dkr.ecr.us-east-1.amazonaws.com/lighttag/user_guide
+        networks:
+            - traefik-net
+        deploy:
+            labels:
+                 - "traefik.port=8000"
+                 - "traefik.docker.network=traefik-net"
+                 - "traefik.frontend.rule=Host:guide.lighttag.io"
+
+networks:
+    traefik-net:
+        external: true
