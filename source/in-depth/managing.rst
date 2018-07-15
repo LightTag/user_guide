@@ -1,8 +1,7 @@
 Managing Work
 =====================
-
-As times goes on you'll want to add datasets, schemas and adjust the priority of various tasks. 
-LightTag allows you to do this through the project management screen. 
+As your project progresses you'll want to add new datasets, schemas tasks and teams to work on them. 
+You can do this through the :doc:`./api` or via the administrative GUI which is described here. 
 
    .. figure:: manager_screen.gif
       :scale: 200 %
