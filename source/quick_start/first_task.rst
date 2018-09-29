@@ -9,6 +9,11 @@ to annotate our Dataset with our Schema.
       :alt: Uploading a dataset
       :align: center
 
+LightTag's task mechanism allows you to specify multiple features, including which teams can work on the task, if you'd
+like to use an AI model to assist your annotators and whether to annotate relationships. These features are covered throughout
+the guide, here, we'll focus on getting started quickly.
+
+
 As shown to define a task we 
 
 1. Give it a unique name
@@ -24,6 +29,7 @@ There are also two more advanced options
 
 You can read more about these features in the Managing Projects section 
 As you can see, aside from specifying the Dataset and Schema, we provide two other details.
+
 **Annotators Per Example** defines how many distinct annotators must annotate each example before we consider it complete.
 LightTag will use this information to decide what :ref:`task` should be done by a given annotator.
 
