@@ -6,13 +6,14 @@
 Welcome to The LightTag User Guide !
 ===============================================
 
+LightTag is a platform to label data for NLP. LightTag has: 
 
-LightTag makes it easy to annotate text with a large :ref:`Team<team>`.
-LightTag is for you if you've ever thought
+- An Annotation interface for Spans, Classifications and Relationships
+- Automated Workforce Management
+- Suggestions and Pre-Annotations 
+- Analytics about your team and data quality 
+- An API to automate your workflows and support Machine-in-the-loop annotation 
 
-   "I want *n* annotators to annotate :ref:`dataset` A with :ref:`tags<tag>` from :ref:`schema` B"
-
-LightTag provides everything you need to execute on that thought and ensure the speed and quality of execution
 
 
 .. toctree::
@@ -20,7 +21,7 @@ LightTag provides everything you need to execute on that thought and ensure the 
    :caption: Contents:
 
    Quick Start <quick_start/index>
-   Advanced <advanced/index>
+   Suggestions, Pre-annotations and Model Analytics <suggestions/index>
    Managing Projects <in-depth/index>
    What is LightTag anyway <what_and_why/index>
    Understand <understand/index>
@@ -28,9 +29,3 @@ LightTag provides everything you need to execute on that thought and ensure the 
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
