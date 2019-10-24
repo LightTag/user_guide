@@ -7,7 +7,6 @@ Managing your Project
    Managing work <managing>
    Working with teams <using_teams>
    Using the API <api>
-   Suggestions overview <suggestions>
-   Uploading Suggestions (Notebook) <uploading_suggestions>
+   Working with results <working_with_results>
 
 
