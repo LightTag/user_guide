@@ -31,6 +31,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+
 extensions = ['sphinx.ext.autodoc',
     'nbsphinx',
     'IPython.sphinxext.ipython_console_highlighting',
@@ -81,7 +82,9 @@ language = None
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This patterns also effect to html_static_path and html_extra_path
+html_static_path= ['./static']
 exclude_patterns = ['*.ipynb_checkpoints*']
+
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'

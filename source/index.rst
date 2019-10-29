@@ -5,9 +5,13 @@
 
 Welcome to The LightTag User Guide !
 ===============================================
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/DGH-AnpIhVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 LightTag is a platform to label data for NLP. LightTag has: 
 
+   
 - An Annotation interface for Spans, Classifications and Relationships
 - Automated Workforce Management
 - Suggestions and Pre-Annotations 
@@ -20,6 +24,7 @@ LightTag is a platform to label data for NLP. LightTag has:
    :maxdepth: 1
    :caption: Contents:
 
+   Quick Start <quick_start/index>
    Start Here <basics/index> 
    Labeling Data <annotating/index> 
    Working With Results <results/index>
@@ -27,6 +32,7 @@ LightTag is a platform to label data for NLP. LightTag has:
    Managing Projects <managing/index>
    API <api/index>
    Review And Analytics <review_and_analytics/index>
+   Recipes <recipes/index>
 
 
 
