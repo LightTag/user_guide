@@ -15,7 +15,6 @@ drag "trees" onto each other to form more complex ones. This allows you to gradu
 building blocks.
 
    .. figure:: img/drag_relations.gif
-      :scale: 200 %
       :alt: Drag tokens and subtrees to form complex relationships
       :align: center
 

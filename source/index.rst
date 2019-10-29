@@ -20,12 +20,13 @@ LightTag is a platform to label data for NLP. LightTag has:
    :maxdepth: 1
    :caption: Contents:
 
-   Quick Start <quick_start/index>
+   Start Here <basics/index> 
+   Labeling Data <annotating/index> 
+   Working With Results <results/index>
    Suggestions, Pre-annotations and Model Analytics <suggestions/index>
-   Managing Projects <in-depth/index>
-   What is LightTag anyway <what_and_why/index>
-   Understand <understand/index>
-   Tips and tricks <tips/index>
+   Managing Projects <managing/index>
+   API <api/index>
+   Review And Analytics <review_and_analytics/index>
 
 
 
