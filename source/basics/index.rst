@@ -9,6 +9,7 @@ Understanding LightTag
    Schemas <schema/index>
    Task Definitions <taskdefinition/index>
    Teams <team/index>
+   Relations <relations/index>
 
 
 How Can LightTag Help Me ? 
@@ -46,15 +47,6 @@ A Typical Use Case
     After creating the Task Definition, whenever Alice or Bob log-in to LightTag, LightTag will serve them data to label. Once they complete
     annotating an example and submit it, LightTag will give them the next example to annotate, until the task is complete. 
 
-Key Concepts
-------------
-
-.. toctree::
-   :maxdepth: 3
-   
-   primitives/dataset/index
-   primitives/schema/index
-   relations
 
 The above example introduced a few core concepts in LightTag
 

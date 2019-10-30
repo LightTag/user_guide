@@ -9,11 +9,6 @@ to define them or assign them. Instead you only need to define what you want, Li
 The definition of an annotation project can be said in one sentance
 "I want *n* annotators to annotate :ref:`dataset` A with :ref:`tags<tag>` from :ref:`schema` B"
 
-A task definition is exactly the population of that phrase
-
-   .. figure:: ../../quick_start/adding_task_definition.gif
-      :alt: Uploading a dataset
-      :align: center
 
 Task Definition parameters
 --------------------------

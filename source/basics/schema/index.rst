@@ -24,10 +24,6 @@ to a :ref:`dataset`.
     agreement with LightTags :ref:`analytics<analytics>` module. A good schema will show that your annotators consistently agree on
     a tag. That is when one annotator said "A" the others also said "A".
 
-       .. figure:: typeHeatmap.jpeg
-          :alt: comparing agreement
-          :align: center
-
           Comparing annotators agreement on type. The red line means something is not clear with "Positive Regulation"
 
     Capturing these mistakes early on in an annotation project gives you the opportunity to correct early rather than

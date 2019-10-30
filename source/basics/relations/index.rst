@@ -14,10 +14,6 @@ arcs between tokens, LightTag allows you to drag and drop tokens to form trees (
 drag "trees" onto each other to form more complex ones. This allows you to gradually build complex annotaitons from simple
 building blocks.
 
-   .. figure:: img/drag_relations.gif
-      :alt: Drag tokens and subtrees to form complex relationships
-      :align: center
-
       Drag tokens and subtrees to form complex relationships
 
 Data
