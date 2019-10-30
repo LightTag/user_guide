@@ -14,17 +14,19 @@ Click + New Dataset
 
 Click Upload File (JSON/CSV)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. tip:: You'll need to have your dataset ready as either a CSV or a JSON. 
-    If using JSON, the data should be a JSON array of objects. See :ref:`here<data_prep>` for examples. 
+.. tip:: You'll need to have your dataset ready as either a CSV or a JSON.
+    If using JSON, the data should be a JSON array of objects. See :ref:`here<data_prep>` for examples.
 .. figure:: ./img/uploadFIle.png
 
 
 Give Your Dataset A Unique Name
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-LightTag will choose a name based on the file you uploaded. Change it if needed. 
+
+LightTag will choose a name based on the file you uploaded.
 
 Preview Your Data
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
 Click on the preview dataset button. LightTag will show you the data you uploaded in a Table. Take a look, make sure everything is as you expected. 
 
 .. figure:: ./img/previewDatasetButton.png

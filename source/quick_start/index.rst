@@ -1,10 +1,53 @@
-LightTag Quick Start
-====================
+.. _very-quick-start:
 
-To start data labeling in LightTag you'll need to specify 
+Very Quick start
+=================
 
-1. A Dataset - The data you want to label in CSV or JSON format. 
-2. A Schema - The concepts you want to label the data with
-3. A Task Definition-  A combination of a Dataset and a Schema
+LightTag is all about managing annotation tasks. To get started we'll set up a simple annotation task. 
 
-.. include:: ./add_dataset.rst
+To do so:
+
+Go to The Tasks Section of the Management Console
+~~~~~~~~~~~~~~~~~~~~
+.. figure:: ./img/vq/taskSection.png
+   
+   Open the Task section of the LightTag Management console. That's the first green button on the left
+
+Click Add New Task
+~~~~~~~~~~~~~~~~~~
+.. figure:: ./img/vq/newTaskButton.png
+   
+   Click the Add New Task Button on the top right
+
+Give Your Task a name
+~~~~~~~~~~~~~~~~~~~~~
+.. figure:: ./img/vq/taskName.png
+   
+   Give your task a unique name. Be descriptive. 
+
+Upload a Dataset 
+~~~~~~~~~~~~~~~~~
+.. figure:: ./img/vq/addDataset.png
+
+   Upload a new dataset or select one you've already defined. Read about data formats :ref:`here<data_prep>`. 
+   See the :ref:`Dataset<dataset>` section for advanced features. 
+
+Define A Schema
+~~~~~~~~~~~~~~~~
+.. figure:: ./img/vq/addSchema.png
+
+   Select an existing Schema or define a new one. See the :ref:`Schemas:<schema>` section for schema configuration options
+
+Create The Task
+~~~~~~~~~~~~~~~
+.. figure:: ./img/vq/createTask.png
+   
+   Press the Create Task button. 
+
+Label Data
+~~~~~~~~~~
+.. figure:: ./img/vq/startLabeling.png
+    
+   Press the Start Labeling Button to start working on your task
+
+

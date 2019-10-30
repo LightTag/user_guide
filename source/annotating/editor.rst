@@ -7,7 +7,7 @@ The Annotation View
 
       Basic Annotating
 
-The Annotation view will always display the :ref:`task` to be done now. In the center of the screen you'll see the
+The Annotation view will always display the task to be done now. In the center of the screen you'll see the
 text to be annotated, to its right the list of :ref:`Tags<tag>` from the tasks :ref:`schema` and a few buttons.
 
 Selecting a Tag
@@ -51,13 +51,15 @@ With the keyboard
 
 
 With the mouse
-```````````````
+~~~~~~~~~~~~~~~~~
+
 You can also select the span of text to annotate with mouse.
-* Select the Tag you want to apply
-* Click and hold at the start of the text to be annotated
-* Drag the mouse to select the text you want to annotate.
-* The annotation will be applied
-*If you'd like to annotate a single word, double click on it and the annotation will be applied
+
+-  Select the Tag you want to apply
+-  Click and hold at the start of the text to be annotated
+-  Drag the mouse to select the text you want to annotate.
+-  The annotation will be applied
+-  If you'd like to annotate a single word, double click on it and the annotation will be applied
 
    .. figure:: annotating_with_mouse.gif
       :alt: Basic Annotating
@@ -66,7 +68,7 @@ You can also select the span of text to annotate with mouse.
       Annotate with the mouse by selecting a span or double clicking on a word
 
 Removing an Annotation
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 Sometimes we make mistakes. Removing an annotation is simple, just click the red X on it.
 
    .. figure:: removing_annotation.gif
@@ -76,7 +78,7 @@ Sometimes we make mistakes. Removing an annotation is simple, just click the red
       Remove an annotation by clicking on the red X
 
 Marking an Example as Done and Submitting
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LightTag asks annotators to commit to an example being completed annotated. Annotators make this commitment by clicking
 *Done*. If there was nothing to annotate in a particular example, then the button will say *Nothing here*.
 
@@ -95,7 +97,7 @@ LightTag asks annotators to commit to an example being completed annotated. Anno
 
 
 Using Suggestions
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 * If suggestions are availble, a purple button on the top right will appear that says "SUGGESTIONS".
 * Click on this button to enter suggestion mode

@@ -2,6 +2,14 @@
 Understanding LightTag
 ======================
 
+.. toctree::
+   :maxdepth: 1
+   
+   Datasets <dataset/index>
+   Schemas <schema/index>
+   Task Definitions <taskdefinition/index>
+   Teams <team/index>
+
 
 How Can LightTag Help Me ? 
 ---------------------------
@@ -46,17 +54,16 @@ Key Concepts
    
    primitives/dataset/index
    primitives/schema/index
+   relations
 
 The above example introduced a few core concepts in LightTag
 
 .. tip::     Click on any of the links for details on each of these concepts
 
 
-* A :ref:`Dataset<dataset>` is a collection of data you want to label, such as Bob's 1000 tweets.
-* An :ref:`Example<example>`. is one unit of data from the dataset, such as a single tweet from Bob's dataset
-* A :ref:`Schema<schema>` is a collection of the concepts you want to apply to your text. A Schema is comprised of Tags and Classes
-* A :ref:`Tag<tag>` is a concept applied to a span of Text. For example, *"Donald Trump"* is a *Person* and *America* is a Place
-* A :ref:`Class<class>` is a concept applied to an entire Example. For example, *"Positive sentiment"*. 
-* A :ref:`Task Definition<taskdefinition>` defines the work that needs to be done and how it should be done. For example "Label my tweets Dataset with the concepts from my schema so that each example is labeled one".
-* A :ref:`Task<task>` is a single unit of work from a Task Definition, assigned to an annotator. "Alice, label this tweet with the concepts from this Schema". 
-LightTag manages tasks automatically.
+- A :ref:`Dataset<dataset>` is a collection of data you want to label, such as Bob's 1000 tweets.
+- An :ref:`Example<example>`. is one unit of data from the dataset, such as a single tweet from Bob's dataset
+- A :ref:`Schema<schema>` is a collection of the concepts you want to apply to your text. A Schema is comprised of Tags and Classes
+- A :ref:`Tag<tag>` is a concept applied to a span of Text. For example, *"Donald Trump"* is a *Person* and *America* is a Place
+- A :ref:`Class<classes>` is a concept applied to an entire Example. For example, *"Positive sentiment"*. 
+- A :ref:`Task Definition<taskdefinition>` defines the work that needs to be done and how it should be done. For example "Label my tweets Dataset with the concepts from my schema so that each example is labeled one".

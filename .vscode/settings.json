@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "/home/tal/venv/spacy-vs-stanford/bin/python",
-    "python.dataScience.jupyterServerURI": "local"
+    "python.dataScience.jupyterServerURI": "local",
+    "restructuredtext.confPath": "${workspaceFolder}/source"
 }

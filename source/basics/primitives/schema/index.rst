@@ -1,7 +1,14 @@
 .. _schema:
-
+  
 Schema
 =======
+
+.. toctree::
+   :maxdepth: 1
+   
+   Tags (Entity Annotation) <tags>
+   Classes (Document Classification)  <classes>
+
 
 In LightTag a Schema is a list of :ref:`Tags<tag>` as well as classification types. The fundamental work done in LightTag is applying a Schema
 to a :ref:`dataset`.
@@ -14,7 +21,7 @@ to a :ref:`dataset`.
     to capture while also being easy for you annotators to understand and recognize.
 
     When starting an annotation project with a newly defined schema, it is worthwile to do a test run and test for tag
-    agreement with LightTags :ref:`analytics` module. A good schema will show that your annotators consistently agree on
+    agreement with LightTags :ref:`analytics<analytics>` module. A good schema will show that your annotators consistently agree on
     a tag. That is when one annotator said "A" the others also said "A".
 
        .. figure:: typeHeatmap.jpeg
@@ -27,10 +34,7 @@ to a :ref:`dataset`.
         collect a large set of inconsistent or imprecise annotations.
 
 
-.. include:: ./tags.rst
-.. include:: ./classes.rst
 
--------
 
 
 Models

@@ -1,3 +1,3 @@
-.. _class:
+.. _classes:
 Classes
 -------

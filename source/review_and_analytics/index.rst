@@ -1,3 +1,4 @@
+.. _analytics:
 Review And Analytics
 ========================
 
