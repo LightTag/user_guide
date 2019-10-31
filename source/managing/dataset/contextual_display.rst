@@ -3,6 +3,12 @@
 Configuring Contextual Display - Showing Examples Together and in Order
 ========================================================================
 
+.. figure:: ./img/multiExamples.gif
+  :width: 600
+  :alt: Multiple examples
+  :align: center
+
+
 Sometimes you'll want to show multiple examples at the same time so that your annotators can have context. 
 
 .. admonition:: Use Case - Annotating Long Documents
