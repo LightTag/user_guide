@@ -1,3 +1,4 @@
+.. _recipes:
 Recipes
 =======
 .. toctree::

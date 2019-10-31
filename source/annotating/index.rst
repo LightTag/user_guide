@@ -2,13 +2,40 @@
 Annotating
 ==========
 
-..  include:: ./editor.rst 
+This section introduces the annotation view, where you'll be annotating data. This page describes what you'll be seeing and how to to navigate it. 
+The subsections describe the different kinds of annotations you can make and you to do so efficeiently 
+
+.. toctree::
+   :maxdepth: 1
+   
+   span_annotations
+   classification
+   relations
+   suggestions
+   index
 
 
-What will be annotated.
+
+The Annotation Window
 -----------------------
 
-Once you've defined your :ref:`taskdefinition`, you and any other annotator will be taken to the annotation view.
-Behind the scenes, LightTag will automatically choose the next task to do, based on what the annotator has
-already completed and the specifications of the :ref:`taskdefinition`.
+Examples
+~~~~~~~~
 
+Concepts Sidebar
+~~~~~~~~~~~~~~~~
+
+Guidelines
+~~~~~~~~~~~
+
+Submitting Work
+----------------
+
+Single Example
+~~~~~~~~~~~~~~
+
+Multi Example Mode
+~~~~~~~~~~~~~~~~~~
+
+Navigating Previous Tasks
+-------------------------

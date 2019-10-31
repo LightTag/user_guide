@@ -1,7 +1,7 @@
 .. _upload-dataset-quick:
 
-Upload a Dataset
-----------------
+Upload a Dataset with the Management Console
+---------------------------------------------
 
 Go to the Dataset View
 ~~~~~~~~~~~~~~~~~~~~~~
