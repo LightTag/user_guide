@@ -15,7 +15,7 @@ LightTag is a platform to label data for NLP. LightTag has:
 - An Annotation interface for Spans, Classifications and Relationships
 - Automated Workforce Management
 - Suggestions and Pre-Annotations 
-- Analytics about your team and data quality 
+- Analytic about your team and data quality 
 - An API to automate your workflows and support Machine-in-the-loop annotation 
 
 
@@ -30,8 +30,8 @@ LightTag is a platform to label data for NLP. LightTag has:
    Working With Results <results/index>
    Suggestions, Pre-annotations and Model Analytics <suggestions/index>
    API <api/index>
-   Review And Analytics <review_and_analytics/index>
-   Recipes <recipes/index>
+..    Review And Analytics <review_and_analytics/index>
+..    Recipes <recipes/index>
 
 
 

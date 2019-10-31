@@ -12,7 +12,7 @@ Configuration and Project Management
    Teams <team/index>
    Relations <relations/index>
 
-Every annotation project is different and needs to be managed accorgdingly. This section introduces the core concepts that make up an annotation
+Every annotation project is different and needs to be managed accordingly. This section introduces the core concepts that make up an annotation
 project in LightTag and how you can configure them. This section gives a detailed explanation of each concept, if you want to find how to 
 do something fast take a look at the :ref:`recipes<recipes>` section.
 
@@ -57,7 +57,7 @@ A Typical Use Case
     **What Needs To Be Done**
     
     Bob has a dataset of 1000 tweets. He'd like to annotate the entities in them as either Person or Location. Bob's friend,
-    Alice, is going to label with him. Bob wants to get through the data as fast as possible, so he wants each tweet to be labeld
+    Alice, is going to label with him. Bob wants to get through the data as fast as possible, so he wants each tweet to be labeled
     by either Alice or Bob, but not both. 
     
     **Setting It Up in LightTag**

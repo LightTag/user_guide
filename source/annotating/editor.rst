@@ -55,7 +55,7 @@ LightTag asks annotators to commit to an example being completed annotated. Anno
 Using Suggestions
 ~~~~~~~~~~~~~~~~~~
 
-* If suggestions are availble, a purple button on the top right will appear that says "SUGGESTIONS".
+* If suggestions are available, a purple button on the top right will appear that says "SUGGESTIONS".
 * Click on this button to enter suggestion mode
 * LightTag will highlight its suggestions and there type
 * Click the green "V" to accept a suggestion

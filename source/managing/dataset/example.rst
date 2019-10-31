@@ -38,6 +38,6 @@ upload arbitrary data in essentially arbitrary shapes. LightTag will
 
 1. Store this metadata alongside your example
 2. Display it to your annotator
-3. Return it to you when you retreive annotations (to spare you a join)
+3. Return it to you when you retrieve annotations (to spare you a join)
 
 

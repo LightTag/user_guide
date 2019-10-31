@@ -27,7 +27,7 @@ Annotators Per Example - How many people should label each example
       Remember: 💩 Data in => 💩 Models out
 
 
-      Annotation projects are an excercise in resource management and tradeoffs. You'll need to balance your teams throughput (number of annotations) 
+      Annotation projects are an exercise in resource management and trade offs. You'll need to balance your teams throughput (number of annotations) 
       with your ability to control for annotation quality. 
 
       We strongly recomend starting an annotation project with at least 2 annotators annotating each example. This will let help you confirm that
@@ -48,7 +48,7 @@ Task Guidelines - Instructions to show your annotators
 Advanced Configuration
 ----------------------
 Task Definitions can also specify one or more :ref:`Teams<team>` that will be working on the task. By default, this will be Everyone
-and you can specify teams based on your own logic such as language profiency, access controls or domain expertise. 
+and you can specify teams based on your own logic such as language proficiency, access controls or domain expertise. 
 
 .. figure:: ./img/advancedTD.png 
      
@@ -81,7 +81,7 @@ You can always raise the priority of a Task by clicking on the priority button  
 How Work is Assigned
 ~~~~~~~~~~~~~~~~~~~~
 When an annotator logs into the system and whenever they submit work, they will be assigned the next task to work on. 
-A simplified explanation of the assigment process follows: 
+A simplified explanation of the assignment process follows: 
 
 1. Find the highest priority task that is assigned to a team this annotator belongs to 
 2. Check if this annotator has any work left to do in the task definition 
@@ -89,7 +89,7 @@ A simplified explanation of the assigment process follows:
 
 .. note::
 
-   LightTag garauntess "at least once" work assignment, as opposed to exactly once. 
-   This means that in rare ocourences you might see one more annotator working on a single example than was assigned. 
+   LightTag gauntness "at least once" work assignment, as opposed to exactly once. 
+   This means that in rare occurrences you might see one more annotator working on a single example than was assigned. 
 
 

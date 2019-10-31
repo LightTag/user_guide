@@ -27,17 +27,17 @@ LightTag will choose a name based on the file you uploaded.
 Preview Your Data
 ~~~~~~~~~~~~~~~~~~~~
 
-Click on the preview dataset button. LightTag will show you the data you uploaded in a Table. Take a look, make sure everything is as you expected. 
+Click on the preview Dataset button. LightTag will show you the data you uploaded in a Table. Take a look, make sure everything is as you expected. 
 
 .. figure:: ./img/previewDatasetButton.png
 
 .. figure:: ./img/previewDataset.png
 
-   LightTag displays the contents of your dataset. Find the field (column) that had the text you want to label 
+   LightTag displays the contents of your Dataset. Find the field (column) that had the text you want to label 
 
 Select The Content Field
 ~~~~~~~~~~~~~~~~~~~~~~~~
-Exit the preview page and return to the dataset upload dialog. LightTag will show you the availble fields. Choose the field with the text
+Exit the preview page and return to the Dataset upload dialog. LightTag will show you the available fields. Choose the field with the text
 you want to annotate. That's the **Content Field**
 
 .. figure:: ./img/chooseContentField.png

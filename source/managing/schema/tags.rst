@@ -9,7 +9,7 @@ Tags are used to annotate a span in the text with a particular concept. When a s
 the annotated text will have a colored border indicating the applied tag, as well as it's name 
 above it. 
 
-The list of avaible tags is always displayed to the annotator on the left hand side. 
+The list of available tags is always displayed to the annotator on the left hand side. 
 
 Clicking on the name of a tag in an applied annotation will open a context menu, allowing the annotator to change the tag. 
 

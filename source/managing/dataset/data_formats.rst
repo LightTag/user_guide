@@ -26,12 +26,12 @@ LightTag Datasets are lists of Examples. Each example has the text you want to a
     |2      |    C  |      19:16:03  | Forget it. Just give me a human to speak with                                    |
     +-------+-------+----------------+----------------------------------------------------------------------------------+
 
-The table above shows a (small) dataset. You can upload a dataset like this as either a JSON or CSV. We recomend using JSON where possible
+The table above shows a (small) dataset. You can upload a dataset like this as either a JSON or CSV. We recommend using JSON where possible
 
 JSON Data Format
 ~~~~~~~~~~~~
 
-To upload data to LightTag in JSON format, prepare a JSON file that has a single array of objects, where each object corresponds to one eaxmple 
+To upload data to LightTag in JSON format, prepare a JSON file that has a single array of objects, where each object corresponds to one example 
 (one row in the table above) 
 
 .. code-block:: json
@@ -57,7 +57,7 @@ CSV Data Format
 You can also upload data as a CSV or TSV file. That would look just like the table above. 
 
 .. DANGER::
-   Some systems output CSVs that are subtely malformed. While rare, this can lead to malformed data. 
+   Some systems output CSVs that are subtly malformed. While rare, this can lead to malformed data. 
    If you do use a CSV format, preview your data during dataset upload 
 
    .. figure:: ./img/previewDatasetButton.png

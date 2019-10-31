@@ -10,7 +10,7 @@ LightTag has some baked in so you can follow along. Just follow these steps.
 1. Go to The Tasks Section of the Management Console
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The Management Console is always availble to a manager user. If your the first user in your workspace you are the manager, 
+The Management Console is always available to a manager user. If your the first user in your workspace you are the manager, 
 otherwise ask the manager to promote you. 
 
 .. figure:: ./img/vq/taskSection.png

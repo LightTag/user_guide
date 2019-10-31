@@ -3,5 +3,3 @@
    :caption: Contents:
 
    API <./api.ipynb>
-
-Mufen Joch Kapugen Joch

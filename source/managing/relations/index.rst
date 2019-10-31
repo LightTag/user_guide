@@ -11,7 +11,7 @@ ___________
 
 LightTag's relationship interface may be different from what you are used to. Whereas most other systems allow you to draw
 arcs between tokens, LightTag allows you to drag and drop tokens to form trees (The graph theory kind). You can also
-drag "trees" onto each other to form more complex ones. This allows you to gradually build complex annotaitons from simple
+drag "trees" onto each other to form more complex ones. This allows you to gradually build complex annotations from simple
 building blocks.
 
       Drag tokens and subtrees to form complex relationships
