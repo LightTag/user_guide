@@ -1,3 +1,4 @@
+.. _suggestions:
 Suggestions, Pre-annotations and Model Analytics
 ################################################
 .. raw:: html
